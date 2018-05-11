@@ -6,6 +6,8 @@ Template: 	core
 Version:      2.0.0
 Text Domain:  core-child
 */
+
+/* dark skin stylings */
 body, #footer, #top_bar
 {
 	background: #000;
@@ -173,3 +175,4 @@ ul.children .comment
 {
 	border: 0;
 }
+/* end dark skin stylings */
